@@ -26,6 +26,7 @@ Essential cheat sheets for Data Science, Machine Learning &amp; Deep Learning en
  - [**Statistics**](https://github.com/TheHexa1/cheatsheets-DS-ML-DL/blob/master/stats_handout.pdf)<br>
  - [**Tidyverse (R)**](https://github.com/TheHexa1/cheatsheets-DS-ML-DL/blob/master/tidyverse_R_cheatsheet.pdf)<br>
  - [**xts (R)**](https://github.com/TheHexa1/cheatsheets-DS-ML-DL/blob/master/xts_in_R_cheatsheet.pdf)<br>
+ - [**Anaconda**](https://github.com/TheHexa1/cheatsheets-DS-ML-DL/blob/master/conda-cheatsheet.pdf)<br>
  
  Note : You are welcome to add new/updated sheets for DS/ML/DL
  
